@@ -1,0 +1,2 @@
+npm install --save-dev chai truffle-assertions
+npm install --save-dev @openzeppelin/contracts
